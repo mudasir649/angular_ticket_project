@@ -29,3 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 https://www.youtube.com/watch?v=ftalatzlrgs
 
 https://files.slack.com/files-pri/T05CJ7QRKRS-F07EW1PFPUJ/image.png
+
+https://www.youtube.com/watch?v=_sRIlVE5Tlk
